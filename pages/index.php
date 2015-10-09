@@ -20,12 +20,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12">
-                <h2>Heading</h2>
+                <h2>Index Page</h2>
             </div>
             <div class="col-sm-12">
                 <?php
                     print("PHP Code goes here....");
                 ?>
+                something goes here...
             </div>
         </div>
     </div>
